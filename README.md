@@ -9,7 +9,7 @@ I'm a passionate developer with a love for technology and innovation. I enjoy wo
 
 ## 🚀 Below are my awesome Layer5 badges:
 <a href="https://meshery.layer5.io/user/7d68a737-f3a2-4d0f-a8bc-6668c977358f?tab=badges&badge=first-design">
-  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" style="width:200px;"/>
+  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" style="width:1000px;"/>
 </a>
 
 
