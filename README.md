@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋, I'm Shivanshu Gupta
+
+## About Me
+I'm a passionate developer with a love for technology and innovation. I enjoy working on projects that challenge me to learn new things.
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/shivanshu-gupta-47a534173/)
+- [Email](shivanshugupta768@gmail.com)
+
+## 🚀 Below are my awesome Layer5 badges:
+![Layer5_First Design](https://badges.layer5.io/assets/badges/first-design/first-design.png)
 
 <!--
 **ShivanshuGupta07/ShivanshuGupta07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
