@@ -8,7 +8,6 @@ I'm a passionate developer with a love for technology and innovation. I enjoy wo
 - [Email](shivanshugupta768@gmail.com)
 
 ## 🚀 Below are my awesome Layer5 badges:
-![]()
 [![Layer5_First Design](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://meshery.layer5.io/user/7d68a737-f3a2-4d0f-a8bc-6668c977358f?tab=badges&badge=first-design)
 
 
