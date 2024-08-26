@@ -9,7 +9,7 @@ I'm a passionate developer with a love for technology and innovation. I enjoy wo
 
 ## 🚀 Below are my awesome Layer5 badges:
 <a href="https://meshery.layer5.io/user/7d68a737-f3a2-4d0f-a8bc-6668c977358f?tab=badges&badge=first-design">
-  <img src="https://github.com/ShivanshuGupta07/ShivanshuGupta07/blob/main/unnamed.png" style="width:1000px;"/>
+  <img src="https://github.com/ShivanshuGupta07/ShivanshuGupta07/blob/main/unnamed.png" style="width:100px;"/>
 </a>
 
 
